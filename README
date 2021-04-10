@@ -1,0 +1,5 @@
+generals.io metadata scrape of game logs
+
+Contains all 869,728 games played from 2019-04-09 to 2021-04-09 between players rated at least 25 stars.
+
+Run process.py to see a demo for how to analyze the data.
